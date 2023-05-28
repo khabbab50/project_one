@@ -1,0 +1,310 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Berkshire Swash', cursive;
+}
+p,a,button{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+#menubar{
+    background: #537543;
+}
+.menubar{
+   padding: 1vw 0vw;
+}
+.logo{}
+.mebu_bar{}
+.mebu_bar i{}
+.mebu_bar ul{}
+.mebu_bar ul li{
+    margin: 0vw 3vw;
+}
+.mebu_bar ul li a{
+    color: #fff !important;
+    font-weight: 600;
+}
+
+
+
+
+
+#brandign{
+    background: url(../images/brnading_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.branding{
+    padding: 5vw 0vw;
+}
+.branding_content{
+    margin-top: 7vw;
+}
+.branding_content h2{
+    margin-left: 7vw !important;
+    font-size: 3.5vw;
+}
+.branding_content h1{
+    font-size: 8vw;
+    margin-top: -3vw;
+}
+.branding_content p{
+    margin: 2vw 0vw;
+}
+.branding_content button{
+    font-weight: 500;
+    border: none;
+    background: #e6ca48;
+    padding: 1vw 4vw;
+    border-radius: 30px;
+    color: #699350;
+}
+.branding_image{}
+.branding_image img{}
+
+
+
+
+
+
+#about{
+    background: url(../images/about_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.about{
+    margin-top: -1px;
+    height: 46vw;
+}
+.bout_image{
+    margin-top: 6.5vw;
+}
+.bout_image img{}
+.about_content{
+    margin-top: 6vw;
+    color: #699350;
+}
+.about_content h1{
+    font-size: 5vw;
+}
+.about_content p{}
+.about_content button{
+    font-weight: 500;
+    border: none;
+    background: #fff;
+    padding: 1vw 4vw;
+    border-radius: 30px;
+    color: #699350;
+}
+
+
+
+
+#servisec{
+    background: url(../images/servisec_backgrounddd.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.servisec{
+    padding: 8vw 0vw;
+    color: #fff;
+}
+.services_card{}
+.services_card i{
+    color: #e6ca48;
+    font-size: 100px;
+}
+.services_card p{}
+
+
+
+
+
+#chef{
+    background: url(../images/chef_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.chef{
+    padding: 5vw 0vw;
+    color: #fff;
+}
+.chef_title{}
+.chef_title h1{
+    font-size: 5vw;
+}
+.chef_title p{
+    letter-spacing: 5px;
+}
+.chef_card{
+    background: #537543;
+    padding-bottom: 10px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: -3px 3px 8px #00000085;
+}
+.chef_card img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.chef_card p{
+    margin: 0px;
+}
+
+
+
+
+
+#meking_food{
+    background: url(../images/meking_foods_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.meking_food{
+    margin-top: -1px;
+    padding: 8vw 0vw;
+}
+.meking_food_image{}
+.meking_food_image img{}
+.meking_food_content{}
+.meking_food_content p{}
+.meking_food_content button{
+    font-weight: 500;
+    border: none;
+    background: #fff;
+    padding: 1vw 4vw;
+    border-radius: 30px;
+    color: #699350;
+}
+
+
+
+
+
+#testimonial{
+    background: url(../images/testimonial_background.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.testimonial{
+    padding: 5vw 0vw;
+}
+.testimonial h1{
+    color: #fff !important;
+    font-size: 8vw;
+}
+.testimonial p{
+    color: #fff !important;
+}
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color: #fbfbfb;
+}
+.carousel-dark .carousel-control-next-icon{
+    display: none;
+}
+.carousel-control-prev-icon{
+    display: none;
+}
+    
+
+
+
+
+#oure_menus{
+    background: url(../images/menus_backgrund.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.Our-Menus{
+    font-size: 6vw !important;
+}
+.oure_menus{
+    color: #537643 !important;
+    padding: 8vw 0vw;
+}
+.oure_menus_content{}
+.oure_menus_content p{
+    margin: 0px;
+}
+
+
+
+
+
+#menu_item{
+    background: url(../images/menu_item_bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.menu_item{
+    padding: 4vw 0vw;
+    margin-top: -1px;
+    color: #fff;
+}
+.menu_item_content{
+}
+.menu_item_content img{}
+.menu_item_content p{
+    margin: 0px;
+}
+
+
+
+
+
+#subscribe{}
+.subscribe{
+    color: #537643 !important;
+    padding: 5vw 0vw;
+}
+.subscribe_contet{}
+.subscribe_contet h1{
+    font-size: 7vw;
+}
+.subscribe_contet p{}
+.subscribe_contet input{
+    padding: 1vw 2vw;
+    width: 80%;
+    outline: none;
+    border: 2px solid #537942;
+    color: #537942;
+    border-radius: 38px;
+    margin: 3vw 0vw;
+}
+.subscribe_contet button{
+    width: 80%;
+    padding: 1vw 2vw;
+    background: #537942;
+    color: #fff;
+    font-size: 1.8vw;
+    border: none;
+    border-radius: 35px;
+}
+
+
+
+
+
+#fooder{
+    background: url(../images/fooder_background.png);
+    padding: 8vw 0vw;
+}
+.fooder{
+    color: #fff;
+}
+.fooder h2{}
+.fooder p{}
+.fooder i{
+    font-size: 30px;
+    margin-right: 15px;
+}
